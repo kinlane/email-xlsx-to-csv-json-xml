@@ -13,6 +13,7 @@ PHP 5+
 PHPExcel - http://phpexcel.codeplex.com/
 Gmail
 IMAP
+PHPMailer - http://phpmailer.worxware.com/
 
 ## Details
 
@@ -34,5 +35,7 @@ Upon successful processing it sends an email back to sender with links to CSV, J
 ## Contact
 
 Kin Lane
+
 kinlane@gmail.com
+
 @kinlane
